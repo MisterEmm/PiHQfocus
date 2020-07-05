@@ -5,7 +5,7 @@ The servo is connected to GPIO 18 in this example.
 
 For more information about this project: 
 
-Instructables: 
+Instructables: https://www.instructables.com/id/Focus-the-Pi-High-Quality-Camera-With-Lego-and-a-S
 
 Hackster: 
 
